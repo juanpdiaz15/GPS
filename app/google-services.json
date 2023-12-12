@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677616154412",
+    "project_id": "gps-for-disaster",
+    "storage_bucket": "gps-for-disaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677616154412:android:27fba8816c4fdbaf961e89",
+        "android_client_info": {
+          "package_name": "com.example.gps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf57MsoBbxcqTj51UKDlGKtXlJBZazzKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
